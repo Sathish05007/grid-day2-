@@ -388,7 +388,7 @@
 
 @media (max-width:425px) {
     .container {
-        height: 80vh;
+        height: 60vh;
         width: 100%;
     }
 
@@ -401,6 +401,6 @@
     .b7,
     .b8,
     .b9 {
-        height: 15vh;
+        height: 13vh;
     }
 }
